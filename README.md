@@ -4,11 +4,11 @@
 
 - 🔭 I’m currently working on [MagicVilla_API](https://github.com/mohammed-haseeb/MagicVilla_API)
 
-- 🌱 I’m currently learning **ASP.NET Core, Docker, Terraform**
+- 🌱 I’m currently learning/improving **ASP.NET Core, Docker, Terraform**
 
 - 📫 How to reach me **mdhaseeb.98@gmail.com**
 
-- ⚡ Fun fact **I love Coffee and Anime.**
+- ⚡ Fun fact **I Enjoy Coffee and Anime.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
