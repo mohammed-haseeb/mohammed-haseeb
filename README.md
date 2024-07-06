@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [MagicVilla_API](https://github.com/mohammed-haseeb/MagicVilla_API)
 
-- 🌱 I’m currently learning & improving **.NET/C# Design Patterns, ASP.NET Core, Docker**
+- 🌱 I’m currently learning & improving **C#, ASP.NET Core, Docker, CI/CD**
 
 - 📫 How to reach me **mdhaseeb.98@gmail.com**
 
