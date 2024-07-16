@@ -4,7 +4,7 @@
 
 - 🛠 I’m currently working on [SeeebAirlines_API](https://github.com/mohammed-haseeb/SeeebAirlines_API)
 
-- 🚀 I’m currently improving <u>**C# and ASP.NET Core**</u> and learning **Docker and CI/CD**
+- 🚀 I’m currently improving **C#/OOPS and ASP.NET Core** skills & learning **Docker and CI/CD**
 
 - 📫 How to reach me **mdhaseeb.98@gmail.com**
 
