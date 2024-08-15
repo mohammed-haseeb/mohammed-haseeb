@@ -4,7 +4,7 @@
 
 - 🛠 I’m currently working on [skyconnect-flight-api](https://github.com/mohammed-haseeb/skyconnect-flight-api)
 
-- 🚀 I’m currently improving **C#/OOPS and ASP.NET Core** skills & learning **Docker and CI/CD**
+- 🚀 I’m currently improving ** C# and .NET Core** skills & learning **Golang**
 
 - 📫 How to reach me **mdhaseeb.98@gmail.com**
 
