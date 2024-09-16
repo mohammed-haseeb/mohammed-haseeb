@@ -4,11 +4,13 @@
 <br>
 
 
-- 🛠 I’m currently working on [play-cards](https://github.com/mohammed-haseeb/play-cards)
+<!-- - 🛠 I’m currently working on [play-cards](https://github.com/mohammed-haseeb/play-cards) -->
 
 - 🚀 I’m currently improving **C# and .NET Core** skills
 
-- 📚 I'm currently learning **DSA and Golang**
+- 📚 I'm currently learning **Docker and CI/CD**
+  
+- 📕 I'm currently revising **DSA and Computer Fundamentals**
 
 - 📫 How to reach me **mdhaseeb.98@gmail.com**
 
