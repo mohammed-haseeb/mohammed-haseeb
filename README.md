@@ -6,11 +6,11 @@
 
 - 🛠 I’m currently working on [play-cards](https://github.com/mohammed-haseeb/play-cards)
 
-- 🚀 I’m currently improving **C# and .NET Core** skills
+- 📚 I'm currently learning **Go** (absolutely loving it)
 
-- 📚 I'm currently learning **Go**
+- 🚀 I’m currently improving **C# and .NET Core** skills
   
-- 📕 I'm currently revising **DSA and Computer Fundamentals**
+- 📕 I'm also currently learning and revising **DSA and Computer Fundamentals**
 
 - 📫 How to reach me **mdhaseeb.98@gmail.com**
 
@@ -29,7 +29,7 @@
 <h3 align="left">🛠 Languages and Tools:</h3>
 <hr size="10" noshade/>
 
-[![My Skills](https://skillicons.dev/icons?i=cs,cpp,dotnet,git,github,aws,gcp,postman,terraform,python,visualstudio,vscode,linux,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,cpp,go,dotnet,git,github,aws,gcp,postman,terraform,python,visualstudio,vscode,linux,windows)](https://skillicons.dev)
 
 <br>
 <h3>📈 GitHub Stats:</h3>
