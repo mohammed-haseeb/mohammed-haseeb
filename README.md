@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammed Haseeb</h1>
 <h3 align="center">A Backend Engineer with interest in Backend & Cloud.</h3>
 
-<br>
 
 <h3 align="left">🙋🏻‍♂️ Intro:</h3>
 <hr size="10" noshade/>
