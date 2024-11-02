@@ -5,13 +5,13 @@
 <h3 align="left">🙋🏻‍♂️ Intro:</h3>
 <hr size="10" noshade/>
 
-- 🛠 I’m currently working on [play-cards](https://github.com/mohammed-haseeb/play-cards)
-
-- 📚 I'm currently learning **Go** (absolutely loving it)
+- 🛠 I’m currently working on [sky-connect-flight-api](https://github.com/mohammed-haseeb/skyconnect-flight-api)
 
 - 🚀 I’m currently improving **C# and .NET Core** skills
-  
-- 📕 I'm also currently learning and revising **DSA and Computer Fundamentals**
+
+- 📚 I'm currently learning **Go, Docker and about Cloud**
+
+<!-- - 📕 I'm also currently learning and revising **DSA and Computer Fundamentals** -->
 
 - 📫 How to reach me **mdhaseeb.98@gmail.com**
 
