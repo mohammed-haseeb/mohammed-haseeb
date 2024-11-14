@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Haseeb</h1>
-<h3 align="center">An Engineer with interest in Backend & Cloud.</h3>
+<h3 align="center">An Engineer with interest in Backend, Cloud & DevOps.</h3>
 
 
 <h3 align="left">🙋🏻‍♂️ Intro:</h3>
@@ -9,7 +9,7 @@
 
 - 🚀 I’m currently improving **C# and .NET Core** skills
 
-- 📚 I'm currently learning **Go, Docker and about Cloud**
+- 📚 I'm currently learning **Go, Docker, Jenkins and AWS**
 
 <!-- - 📕 I'm also currently learning and revising **DSA and Computer Fundamentals** -->
 
