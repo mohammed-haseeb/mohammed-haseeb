@@ -5,11 +5,11 @@
 <h3 align="left">🙋🏻‍♂️ Intro:</h3>
 <hr size="10" noshade/>
 
-- 🛠 I’m currently working on [sky-connect-flight-api](https://github.com/mohammed-haseeb/skyconnect-flight-api)
+- 🛠 I’m currently contributing to the unseen, turning private repos green, one commit at a time.
 
-- 🚀 I’m currently improving **C# and .NET Core** skills
+<!-- - 🚀 I’m currently improving **C# and .NET Core** skills -->
 
-- 📚 I'm currently learning **Go, Docker, Jenkins and AWS**
+- 📚 I'm currently working majorly with **Python** and minorly(if that's a word) with **C#/.NET**
 
 <!-- - 📕 I'm also currently learning and revising **DSA and Computer Fundamentals** -->
 
