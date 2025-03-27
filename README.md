@@ -9,7 +9,7 @@
 
 <!-- - 🚀 I’m currently improving **C# and .NET Core** skills -->
 
-- 📚 I'm currently working majorly with **Python** and minorly(if that's a word) with **C#/.NET**
+- 📚 I'm currently working majorly with **Python** and minorly(if that's a word) with **C#/.NET**.
 
 <!-- - 📕 I'm also currently learning and revising **DSA and Computer Fundamentals** -->
 
