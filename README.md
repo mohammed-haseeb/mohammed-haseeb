@@ -5,7 +5,7 @@
 <h3 align="left">🙋🏻‍♂️ Intro:</h3>
 <hr size="10" noshade/>
 
-- 🚀 I’m currently, turning private repos green. 
+- 🚀 I’m currently turning private repos green. 
 
 <!-- - 🚀 I’m currently improving **C# and .NET Core** skills -->
 
