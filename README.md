@@ -5,17 +5,17 @@
 <h3 align="left">🙋🏻‍♂️ Intro:</h3>
 <hr size="10" noshade/>
 
-- 🚀 I’m currently turning private repos green. 
+- 🚀 Turning private repos green. 
 
 <!-- - 🚀 I’m currently improving **C# and .NET Core** skills -->
 
 - 🛠 Currently, working majorly with **Python** and minorly(if that's a word) with **C#/.NET**.
 
-<!-- - 📕 I'm also currently learning and revising **DSA and Computer Fundamentals** -->
+- 📕 Exploring and Learning **AI, Gen AI, Agents...**
 
 - 📫 How to reach me **mdhaseeb.98@gmail.com**
 
-- ⚡ Fun fact **I Enjoy Coffee and Anime.**
+- ⚡ I Enjoy **Coffee** and **Anime**.
 
 <br>
 
