@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Haseeb</h1>
-<h3 align="center">An Engineer with interest in Backend, Cloud & DevOps.</h3>
+<h3 align="center">Engineer with interest in Backend and currently exploring AI</h3>
 
 
 <h3 align="left">🙋🏻‍♂️ Intro:</h3>
