@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Mohammed Haseeb</h1>
-<h3 align="center">Engineer with interest in Backend and currently exploring AI</h3>
+<h3 align="center">Generalist Engineer currently exploring Security & AI</h3>
 
 
 <h3 align="left">🙋🏻‍♂️ Intro:</h3>
 <hr size="10" noshade/>
 
-- 🚀 Turning private repos green. 
+<!-- - 🚀 Wokring with private repos currently. -->
 
 <!-- - 🚀 I’m currently improving **C# and .NET Core** skills -->
 
-- 🛠 Currently, working majorly with **Python** and minorly(if that's a word) with **C#/.NET**.
+- 🛠 Currently, working majorly with **Python** and occasionally with **C#/.NET**.
 
-- 📕 Exploring and Learning **AI, Gen AI, Agents...**
+- 📕 Exploring and Learning **Security** & **AI** domains.
 
 - 📫 How to reach me **mdhaseeb.98@gmail.com**
 
