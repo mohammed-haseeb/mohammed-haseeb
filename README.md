@@ -5,11 +5,11 @@
 <h3 align="left">🙋🏻‍♂️ Intro:</h3>
 <hr size="10" noshade/>
 
-<!-- - 🚀 Wokring with private repos currently. -->
+- 🚀 Currently, working with private repos.
 
 <!-- - 🚀 I’m currently improving **C# and .NET Core** skills -->
 
-- 🛠 Currently, working majorly with **Python** and occasionally with **C#/.NET**.
+- 🛠 Working majorly with **Python** and occasionally with **C#/.NET**.
 
 - 📕 Exploring and Learning **Security** & **AI** domains.
 
